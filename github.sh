@@ -1,1 +1,1 @@
-firefox https://github.com/1821653110Dx
+firefox https://github.com/1821653110Dx/note
