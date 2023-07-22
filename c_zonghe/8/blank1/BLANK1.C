@@ -1,0 +1,21 @@
+#include  <stdio.h>
+double f1(double  x)
+{  return x*x;  }
+double f2(double  x, double  y)
+{  return  x*y;  }
+/**********found**********/
+__1__ fun(int  i, double  x, double  y)
+{ if (i==1)
+/**********found**********/
+    return __2__(x);
+  else
+/**********found**********/
+    return  __3__(x, y);
+}
+main()
+{ double  x1=5, x2=3, r;
+  r = fun(1, x1, x2);
+  r += fun(2, x1, x2);
+  printf("\nx1=%f, x2=%f, x1*x1+x1*x2=%f\n\n",x1, x2, r);
+  getchar();
+}
