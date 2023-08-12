@@ -1,0 +1,1 @@
+/home/freather-ben/app/blender/3.6/scripts/addons/io_import_palette/import_krita.py
