@@ -1,0 +1,9 @@
+# path
+alias downloads='/home/freather-ben/下载'
+alias documents='/home/freather-ben/文档'
+alias desktop='/home/freather-ben/桌面'
+alias templates='/home/freather-ben/模板'
+alias public='/home/freather-ben/公共的'
+alias music='/home/freather-ben/音乐'
+alias pictures='/home/freather-ben/图片'
+alias vedios='/home/freather-ben/视频'
